@@ -20,12 +20,7 @@ const int loudKnock = 100;
 If you were feeling particularly secretive, you could set this range even 
 tighter to make the code harder to crack. Here’s the sketch:
 
-------------------------------------------------
-Created 18 September 2012 by Scott Fitzgerald 
-Thanks to Federico Vanzati for improvements 
-http://arduino.cc/starterKit 
-This example code is part of the public domain.
-------------------------------------------------
+
 
 */
 
